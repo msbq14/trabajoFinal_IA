@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etario;Edad;Pais de origen;Estado Civil
-01/04/2024;Tulcan - MREMH;Refugiado;Femenino;21/10/2000;3. Jovenes;23;Colombia;Soltero
-01/04/2024;Tulcan - MREMH;Solicitante de Asilo;Femenino;30/06/1994;3. Jovenes;30;Colombia;Soltero
-01/04/2024;Tulcan - MREMH;Solicitante de Asilo;Femenino;18/12/2011;2. Adolecente;12;Colombia;Soltero
-01/04/2024;Tulcan - MREMH;Solicitante de Asilo;Masculino;31/01/2015;1. Niño, Niña;9;Colombia;Soltero
-01/04/2024;Guayaquil - MREMH;Solicitante de Asilo;Masculino;29/08/2015;1. Niño, Niña;8;Colombia;Soltero
-01/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;03/03/1994;3. Jovenes;30;Colombia;Soltero
-01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;22/04/2003;3. Jovenes;21;Colombia;Soltero
-01/04/2024;Tulcan - MREMH;No de Interes;Femenino;23/01/2003;3. Jovenes;21;Colombia;Soltero
-01/04/2024;Tulcan - MREMH;Solicitante de Asilo;Masculino;07/03/1988;4. Adultos;36;Colombia;Soltero
-=======
-﻿Fecha de creación;Ubicación;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etario;Edad;País de origen;Estado Civil
+Fecha de creación;Ubicación;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etario;Edad;País de origen;Estado Civil
 01/04/2024;Tulcán - MREMH;Refugiado;Femenino;21/10/2000;3. Jovenes;23;Colombia;Soltero
 01/04/2024;Tulcán - MREMH;Solicitante de Asilo;Femenino;30/06/1994;3. Jovenes;30;Colombia;Soltero
 01/04/2024;Tulcán - MREMH;Solicitante de Asilo;Femenino;18/12/2011;2. Adolecente;12;Colombia;Soltero
@@ -20,17 +8,12 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;22/04/2003;3. Jovenes;21;Colombia;Soltero
 01/04/2024;Tulcán - MREMH;No de Interes;Femenino;23/01/2003;3. Jovenes;21;Colombia;Soltero
 01/04/2024;Tulcán - MREMH;Solicitante de Asilo;Masculino;07/03/1988;4. Adultos;36;Colombia;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 01/04/2024;Pichincha - MREMH;Refugiado;Femenino;26/09/1997;3. Jovenes;26;Colombia;Union
 01/04/2024;Pichincha - MREMH;Refugiado;Masculino;29/04/1996;3. Jovenes;28;Colombia;Union
 01/04/2024;Pichincha - MREMH;Refugiado;Masculino;16/09/2020;1. Niño, Niña;3;Colombia;Soltero
 01/04/2024;Pichincha - MREMH;Solicitante de Asilo;Femenino;21/03/1990;4. Adultos;34;Colombia;Soltero
 01/04/2024;Pichincha - MREMH;Solicitante de Asilo;Femenino;08/11/2014;1. Niño, Niña;9;Colombia;Soltero
-<<<<<<< HEAD
-01/04/2024;Tulcan - MREMH;Solicitante de Asilo;Masculino;24/09/1997;3. Jovenes;26;Colombia;Soltero
-=======
 01/04/2024;Tulcán - MREMH;Solicitante de Asilo;Masculino;24/09/1997;3. Jovenes;26;Colombia;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 01/04/2024;Pichincha - MREMH;Solicitante de Asilo;Masculino;25/07/1979;4. Adultos;44;Venezuela;Soltero
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;14/01/1990;4. Adultos;34;Haiti;Soltero
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;05/03/1992;4. Adultos;32;Colombia;Soltero
@@ -41,11 +24,7 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 01/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;27/07/1980;4. Adultos;43;Venezuela;Union
 01/04/2024;Esmeraldas -MREMH;Otro de Interes;Masculino;09/04/1940;5. Adulto Mayor;84;Colombia;Union
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;31/05/1984;4. Adultos;40;Venezuela;Union
-<<<<<<< HEAD
-01/04/2024;Tulcan - MREMH;Solicitante de Asilo;Femenino;29/01/2005;3. Jovenes;19;Venezuela;Soltero
-=======
 01/04/2024;Tulcán - MREMH;Solicitante de Asilo;Femenino;29/01/2005;3. Jovenes;19;Venezuela;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 01/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;02/09/2007;2. Adolecente;16;Venezuela;Soltero
 01/04/2024;Pichincha - MREMH;Solicitante de Asilo;Femenino;11/10/1982;4. Adultos;41;Colombia;Soltero
 01/04/2024;Pichincha - MREMH;Solicitante de Asilo;Femenino;16/07/2008;2. Adolecente;15;Colombia;Soltero
@@ -80,11 +59,7 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 01/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;17/10/1987;4. Adultos;36;Cuba;Union
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;21/08/2000;3. Jovenes;23;Venezuela;Soltero
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;11/04/2019;1. Niño, Niña;5;Venezuela;Soltero
-<<<<<<< HEAD
-01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;18/07/1990;4. Adultos;33;Federaci�n Rusa;Soltero
-=======
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;18/07/1990;4. Adultos;33;Federación Rusa;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 01/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;04/03/1992;4. Adultos;32;Venezuela;Soltero
 01/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;13/10/2002;3. Jovenes;21;Venezuela;Soltero
 01/04/2024;Pichincha - MREMH;Solicitante de Asilo;Femenino;21/03/1998;3. Jovenes;26;Venezuela;Soltero
@@ -124,11 +99,7 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 02/04/2024;Esmeraldas -MREMH;Solicitante de Asilo;Femenino;09/12/1981;4. Adultos;42;Venezuela;Soltero
 02/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;27/11/1987;4. Adultos;36;Venezuela;Union
 02/04/2024;Esmeraldas -MREMH;Solicitante de Asilo;Femenino;04/06/2007;2. Adolecente;17;Venezuela;Soltero
-<<<<<<< HEAD
-02/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;13/01/1990;4. Adultos;34;Federaci�n Rusa;Soltero
-=======
 02/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;13/01/1990;4. Adultos;34;Federación Rusa;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 02/04/2024;Esmeraldas -MREMH;Solicitante de Asilo;Femenino;22/12/2014;1. Niño, Niña;9;Venezuela;Soltero
 02/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;16/09/2020;1. Niño, Niña;3;Venezuela;Soltero
 02/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;30/05/2022;1. Niño, Niña;2;Venezuela;Soltero
@@ -196,11 +167,7 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 02/04/2024;Ibarra - MREMH;Refugiado;Femenino;22/10/1994;3. Jovenes;29;Colombia;Soltero
 02/04/2024;Ibarra - MREMH;Refugiado;Masculino;01/02/2000;3. Jovenes;24;Colombia;Soltero
 03/04/2024;Guayaquil - MREMH;Solicitante de Asilo;Masculino;28/03/2001;3. Jovenes;23;Libano;Soltero
-<<<<<<< HEAD
-03/04/2024;Tulcan - MREMH;No de Interes;Masculino;27/04/1984;4. Adultos;40;Venezuela;Soltero
-=======
 03/04/2024;Tulcán - MREMH;No de Interes;Masculino;27/04/1984;4. Adultos;40;Venezuela;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 03/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;05/05/1995;3. Jovenes;29;Venezuela;Soltero
 03/04/2024;Pichincha - MREMH;Solicitante de Asilo;Masculino;16/06/1990;4. Adultos;34;Colombia;Casado
 03/04/2024;Pichincha - MREMH;Solicitante de Asilo;Femenino;02/12/1987;4. Adultos;36;Colombia;Casado
@@ -525,17 +492,10 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;23/12/2019;1. Niño, Niña;4;Colombia;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;22/03/2001;3. Jovenes;23;Colombia;Union
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;28/09/2000;3. Jovenes;23;Colombia;Casado
-<<<<<<< HEAD
-08/04/2024;Tulcan - MREMH;Refugiado;Femenino;29/09/1993;3. Jovenes;30;Colombia;Soltero
-08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;04/03/2023;1. Niño, Niña;1;Colombia;Soltero
-08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;24/02/1996;3. Jovenes;28;Venezuela;Soltero
-08/04/2024;Tulcan - MREMH;Refugiado;Masculino;02/01/2011;2. Adolecente;13;Colombia;Soltero
-=======
 08/04/2024;Tulcán - MREMH;Refugiado;Femenino;29/09/1993;3. Jovenes;30;Colombia;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;04/03/2023;1. Niño, Niña;1;Colombia;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;24/02/1996;3. Jovenes;28;Venezuela;Soltero
 08/04/2024;Tulcán - MREMH;Refugiado;Masculino;02/01/2011;2. Adolecente;13;Colombia;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;12/12/2012;1. Niño, Niña;11;Venezuela;Union
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;12/04/1996;3. Jovenes;28;Venezuela;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;15/06/1988;4. Adultos;36;Colombia;Soltero
@@ -547,11 +507,7 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;09/10/1998;3. Jovenes;25;Colombia;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;19/02/2016;1. Niño, Niña;8;Venezuela;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;17/04/2018;1. Niño, Niña;6;Venezuela;Soltero
-<<<<<<< HEAD
-08/04/2024;Tulcan - MREMH;No de Interes;Masculino;18/02/1982;4. Adultos;42;Venezuela;Soltero
-=======
 08/04/2024;Tulcán - MREMH;No de Interes;Masculino;18/02/1982;4. Adultos;42;Venezuela;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;01/10/1986;4. Adultos;37;Venezuela;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;26/09/2001;3. Jovenes;22;Colombia;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;09/02/2004;3. Jovenes;20;Colombia;Soltero
@@ -591,11 +547,7 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;04/06/2014;1. Niño, Niña;10;Venezuela;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;20/10/2021;1. Niño, Niña;2;Venezuela;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;11/12/1999;3. Jovenes;24;Venezuela;Soltero
-<<<<<<< HEAD
-08/04/2024;Pichincha - MREMH;Refugiado;Masculino;02/12/1993;3. Jovenes;30;T�nez;Soltero
-=======
 08/04/2024;Pichincha - MREMH;Refugiado;Masculino;02/12/1993;3. Jovenes;30;Túnez;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;08/10/2015;1. Niño, Niña;8;Venezuela;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;09/09/2018;1. Niño, Niña;5;Venezuela;Soltero
 08/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;19/08/1992;4. Adultos;31;Venezuela;Soltero
@@ -607,11 +559,7 @@ Fecha de creacion;Ubicacion;Estatus Legal;Genero;Fecha de Nacimiento;Grupo Etari
 09/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;13/02/1989;4. Adultos;35;Colombia;Soltero
 09/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;14/06/1993;4. Adultos;31;Venezuela;Soltero
 09/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;10/10/2021;1. Niño, Niña;2;Venezuela;Soltero
-<<<<<<< HEAD
-09/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;10/04/1969;4. Adultos;55;Federaci�n Rusa;Soltero
-=======
 09/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;10/04/1969;4. Adultos;55;Federación Rusa;Soltero
->>>>>>> 97395f6f0a268a329a5bea5386209ec98b820941
 09/04/2024;Pichincha - MREMH;Refugiado;Masculino;20/04/1999;3. Jovenes;25;Colombia;Soltero
 09/04/2024;Pichincha - MREMH;Otro de Interes;Masculino;01/08/1990;4. Adultos;33;Colombia;Soltero
 09/04/2024;Pichincha - MREMH;Otro de Interes;Femenino;14/05/2019;1. Niño, Niña;5;Venezuela;Soltero
