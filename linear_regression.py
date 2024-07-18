@@ -16,13 +16,13 @@ X = df['Fecha de creacion'].values.reshape(-1, 1)
 x = df['Fecha de creacion'].values
 y = df['Count'].values
 
-
-
 model = np.poly1d(np.polyfit(x, y, 7))
 
-line = np.linspace(0, 17, 30)
+line = np.linspace(0, 17, 34)
 
 plt.scatter(x, y)
 plt.plot(line, model(line), color='red')
 plt.show()
 
+# Prediccion de refugiados para el mes de juli0 2024 
+print(model(18))
